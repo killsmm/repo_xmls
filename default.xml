@@ -2,5 +2,6 @@
 <manifest>
     <remote name="origin" fetch="https://github.com/killsmm"/>
     <default revision="main" remote="origin" sync-j="4"/>
-    <project name="m10v_camera_server" path="./"/>
+    <project name="m10v_camera_server" path="app/camera_server"/>
+    
 </manifest>

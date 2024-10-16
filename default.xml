@@ -2,8 +2,5 @@
 <manifest>
     <remote name="origin" fetch="https://github.com/killsmm"/>
     <default revision="main" remote="origin" sync-j="4"/>
-    
-    <project name="repo1" path="projects/repo1" />
-    <project name="repo2" path="projects/repo2" />
-    <project name="repo3" path="tools/repo3" />
+    <project name="m10v_camera_server" path="./"/>
 </manifest>
